@@ -254,7 +254,7 @@ section.recent .recent-container {
 .works-card-container .works-card-description .description{
     display: flex;
     justify-content: space-between;
-    width: 190px;
+    width: 240px;
     align-items: center;
 }
 
@@ -275,7 +275,7 @@ section.recent .recent-container {
 }
 
 .works-card-container .works-card-description .description .tag{
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     color: var(--grey-color);
 }
 
